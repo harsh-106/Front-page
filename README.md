@@ -37,7 +37,6 @@ To run this project locally, follow these steps:
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/yourusername/instant-paid.git
-cd instant-paid
 ```
 
 ### 2️⃣ Install Dependencies
