@@ -3,7 +3,7 @@
 Instant Paid is a **modern financial accounting UI** designed for freelancers and small businesses. Built using **React.js, Vite, and Tailwind CSS**, this project provides a visually appealing and user-friendly interface for managing finances.
 
 ## 🚀 Features
-- **Responsive Navbar** with Sign Up & Log In buttons.
+- **Navbar** with Sign Up & Log In buttons.
 - **Hero Section** showcasing effortless accounting solutions.
 - **Feature Section** highlighting key functionalities.
 - **Interactive UI Components** designed with Tailwind CSS.
